@@ -1,0 +1,118 @@
+2019-01-11 15:06:07,915 -0800 INFO pid=11468 14224:MainThread      sync_app.py:2027 Repr caching stats: 
+2019-02-12 06:01:39,176 -0800 INFO pid=9348 13368:MainThread      logging_config.py:365 OS: Windows/10.0 [64-bit]
+2019-02-12 06:01:39,177 -0800 INFO pid=9348 13368:MainThread      logging_config.py:369 Backup and Sync [64-bit] (build 3.43.2448.9071)
+2019-02-12 06:01:39,177 -0800 INFO pid=9348 13368:MainThread      logging_config.py:370 SSL: OpenSSL 1.0.2o  27 Mar 2018
+2019-02-12 06:01:39,178 -0800 INFO pid=9348 13368:MainThread      main.py:285 Browser emulation mode for googledrivesync.exe already set to 11001
+2019-02-12 06:01:39,203 -0800 INFO pid=9348 13368:MainThread      service.py:132 Creating singleton service instance of '<class 'common.threads.router.MainThreadRouter'>'
+2019-02-12 06:01:39,203 -0800 INFO pid=9348 13368:MainThread      service.py:132 Creating singleton service instance of '<class 'common.file_lock.FileLock'>'
+2019-02-12 06:01:39,206 -0800 INFO pid=9348 13368:MainThread      service.py:132 Creating singleton service instance of '<class 'common.file_lock.FileLock'>'
+2019-02-12 06:01:39,211 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-Black.ttf
+2019-02-12 06:01:39,213 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-BlackItalic.ttf
+2019-02-12 06:01:39,216 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-Bold.ttf
+2019-02-12 06:01:39,219 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-BoldItalic.ttf
+2019-02-12 06:01:39,223 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-Italic.ttf
+2019-02-12 06:01:39,226 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-Light.ttf
+2019-02-12 06:01:39,227 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-LightItalic.ttf
+2019-02-12 06:01:39,230 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-Medium.ttf
+2019-02-12 06:01:39,232 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-MediumItalic.ttf
+2019-02-12 06:01:39,233 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-Regular.ttf
+2019-02-12 06:01:39,236 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-Thin.ttf
+2019-02-12 06:01:39,239 -0800 INFO pid=9348 13368:MainThread      platform_ui.py:59 Font loaded C:\Users\user\AppData\Local\Temp\_MEI11~1\resources\fonts\Roboto-ThinItalic.ttf
+2019-02-12 06:01:39,239 -0800 INFO pid=9348 13368:MainThread      sync_client_thread.py:91 AddCleanupCallback CleanupAsyncReference
+2019-02-12 06:01:39,240 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.service.user.User'>'
+2019-02-12 06:01:39,242 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.roots.roots.RootManager'>'
+2019-02-12 06:01:39,243 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.thread_manager.ThreadManager'>'
+2019-02-12 06:01:39,246 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.pause_manager.Service'>'
+2019-02-12 06:01:39,246 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 sync_app.py:364 Getting TokenStorage...
+2019-02-12 06:01:39,247 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.storage.token_storage.TokenStorage'>'
+2019-02-12 06:01:39,247 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 sync_app.py:366 Got token storage: <common.storage.token_storage.TokenStorage object at 0x000000000A6E0860>
+2019-02-12 06:01:39,250 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.features.AppFeatures'>'
+2019-02-12 06:01:39,253 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.cert.Manager'>'
+2019-02-12 06:01:40,546 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.net.bandwidth.BandwidthThrottler'>'
+2019-02-12 06:01:40,548 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.persistence.persistence.Factory'>'
+2019-02-12 06:01:40,548 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 persistence.py:38 Initialize factory with policy PlatformPolicy(google_drive_config_directory_path=u'C:\\Users\\user\\AppData\\Local\\Google\\Drive', main_sync_root=None, profile_id=None)
+2019-02-12 06:01:40,549 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.persistence.sync_config_sqlite.SyncConfigSQLite'>'
+2019-02-12 06:01:40,562 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.overlay_status.OverlayStatus'>'
+2019-02-12 06:01:40,571 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 sync_client_thread.py:91 AddCleanupCallback persistence_sqlite:d804e6d220c74d27bbd60329e66438f6C:\Users\user\AppData\Local\Google\Drive\user_default\snapshot.db
+2019-02-12 06:01:40,572 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 sync_client_thread.py:91 AddCleanupCallback CleanupAsyncReference
+2019-02-12 06:01:40,575 -0800 INFO pid=9348 21252:RunAsync-_CleanUpTempDirectory-2 policy.py:486 Temp folder for current execution: C:\Users\user\AppData\Local\Google\Drive\user_default\TempData\d04e5fdcd17f0616f965099351d2f2a1
+2019-02-12 06:01:40,576 -0800 INFO pid=9348 21252:RunAsync-_CleanUpTempDirectory-2 sync_app.py:240 Emptying previous temp dir 'C:\Users\user\AppData\Local\Google\Drive\user_default\TempData\170f22f2d331241cb0480a8c4c416dda'
+2019-02-12 06:01:40,608 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 sync_app.py:542 BandwidthThrottler configured via global_db
+2019-02-12 06:01:40,609 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 service.py:132 Creating singleton service instance of '<class 'common.persistence.global_sqlite.GlobalSQLite'>'
+2019-02-12 06:01:40,618 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 bandwidth.py:59 BandwidthThrottler.SetRxBytesPerSecond 0
+2019-02-12 06:01:40,621 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 bandwidth.py:68 BandwidthThrottler.SetTxBytesPerSecond 0
+2019-02-12 06:01:40,634 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 sync_client_thread.py:139 Execute cleanup callback 'CleanupAsyncReference'
+2019-02-12 06:01:40,635 -0800 INFO pid=9348 21116:RunAsync-_InitializeSyncAppAsync-1 sync_client_thread.py:139 Execute cleanup callback 'persistence_sqlite:d804e6d220c74d27bbd60329e66438f6C:\Users\user\AppData\Local\Google\Drive\user_default\snapshot.db'
+2019-02-12 06:01:40,670 -0800 INFO pid=9348 21252:RunAsync-_CleanUpTempDirectory-2 sync_client_thread.py:139 Execute cleanup callback 'CleanupAsyncReference'
+2019-02-12 06:01:40,749 -0800 INFO pid=9348 13368:MainThread      service.py:132 Creating singleton service instance of '<class 'common.ui.notification_queue.NotificationQueue'>'
+2019-02-12 06:01:40,823 -0800 INFO pid=9348 13368:MainThread      service.py:132 Creating singleton service instance of '<class 'windows.ui.taskbar.TaskBarIcon'>'
+2019-02-12 06:01:40,888 -0800 INFO pid=9348 13368:MainThread      omaha.py:89 Setting Omaha usage flag in registry
+2019-02-12 06:01:40,888 -0800 INFO pid=9348 13368:MainThread      sync_client_thread.py:91 AddCleanupCallback CleanupAsyncReference
+2019-02-12 06:01:40,915 -0800 INFO pid=9348 21320:ThreadMonitor   thread_manager.py:422 Waiting on exit condition. Wake up after 3600s.
+2019-02-12 06:01:40,930 -0800 INFO pid=9348 21312:RunAsync-_InitializeAsync-3 sync_client_thread.py:139 Execute cleanup callback 'CleanupAsyncReference'
+2019-02-12 06:01:40,944 -0800 INFO pid=9348 21332:LaunchThreads   sync_client_thread.py:91 AddCleanupCallback persistence_sqlite:d812ba41045f4c27b04d1633074f6d21C:\Users\user\AppData\Local\Google\Drive\user_default\snapshot.db
+2019-02-12 06:01:40,946 -0800 INFO pid=9348 21332:LaunchThreads   service.py:132 Creating singleton service instance of '<class 'common.device.watcher.DeviceWatcher'>'
+2019-02-12 06:01:40,948 -0800 INFO pid=9348 21352:VolumeHandler   service.py:132 Creating singleton service instance of '<class 'windows.volumes.VolumeInfo'>'
+2019-02-12 06:01:40,950 -0800 INFO pid=9348 21336:KeepProcessControllerAlive sync_client_thread.py:310 KeepProcessControllerAlive run loop has started.
+2019-02-12 06:01:40,950 -0800 INFO pid=9348 21352:VolumeHandler   volume_handler.py:118 Refreshing volume information table.
+2019-02-12 06:01:40,950 -0800 INFO pid=9348 13368:MainThread      sync_client_thread.py:91 AddCleanupCallback CleanupAsyncReference
+2019-02-12 06:01:40,954 -0800 INFO pid=9348 21352:VolumeHandler   volume_handler.py:118 Got new volume entries: {'serial:3425393916': VolumeEntry(volume='serial:3425393916', mountpoint=u'C:\\', uuid='5b5954f2-1581-4e21-b460-36d944ffef47', label=u'Windows', size=254720077824L, filesystem='ntfs', model=None, device_type=<DeviceType.INTERNAL: 'internal'>, device_file=u'\\\\?\\Volume{5b5954f2-1581-4e21-b460-36d944ffef47}\\', device_number=3425393916L)}
+2019-02-12 06:01:40,967 -0800 INFO pid=9348 21352:VolumeHandler   volume_handler.py:118 Volume information refresh complete in 0.015s.
+2019-02-12 06:01:40,973 -0800 INFO pid=9348 13368:MainThread      sync_client_thread.py:91 AddCleanupCallback CleanupAsyncReference
+2019-02-12 06:01:40,979 -0800 INFO pid=9348 3976:UiNotificationPoller sync_client_thread.py:310 UiNotificationPoller run loop has started.
+2019-02-12 06:01:40,983 -0800 INFO pid=9348 9180:RunAsync-CleanupUpgradeTempDirectoryLocation-5 sync_client_thread.py:139 Execute cleanup callback 'CleanupAsyncReference'
+2019-02-12 06:01:41,003 -0800 INFO pid=9348 21332:LaunchThreads   user.py:82 Initializing User instance with new credentials. None
+2019-02-12 06:01:41,006 -0800 INFO pid=9348 21332:LaunchThreads   docs_client_factory.py:67 Creating a new DriveClient
+2019-02-12 06:01:41,007 -0800 INFO pid=9348 21332:LaunchThreads   service.py:132 Creating singleton service instance of '<class 'common.quota.QuotaInfo'>'
+2019-02-12 06:01:41,009 -0800 INFO pid=9348 21332:LaunchThreads   service.py:132 Creating singleton service instance of '<class 'common.token_bucket.CloudBucketManager'>'
+2019-02-12 06:01:41,012 -0800 INFO pid=9348 21332:LaunchThreads   service.py:132 Creating singleton service instance of '<class 'common.drive_api.drive_resource.Manager'>'
+2019-02-12 06:01:41,015 -0800 INFO pid=9348 21332:LaunchThreads   drive_resource.py:184 Initialize apiclient Drive resource for  current user token
+2019-02-12 06:01:41,039 -0800 INFO pid=9348 21332:LaunchThreads   drive_resource.py:245 Drive SDK baseUrl = https://www.googleapis.com/drive/v2internal/
+2019-02-12 06:01:41,071 -0800 INFO pid=9348 21332:LaunchThreads   service.py:132 Creating singleton service instance of '<class 'common.drive_api.http.Manager'>'
+2019-02-12 06:01:41,085 -0800 INFO pid=9348 21332:LaunchThreads   service.py:132 Creating singleton service instance of '<class 'common.drive_api.http.AccessTokenInMemoryCache'>'
+2019-02-12 06:01:41,088 -0800 INFO pid=9348 21332:LaunchThreads   drive_request.py:311 Drive request: About(tags=Reason.SYNC_OTHER(SyncType.UNKNOWN_SYNC_TYPE)) - Read request - None
+2019-02-12 06:01:41,101 -0800 INFO pid=9348 21332:LaunchThreads   discovery.py:870 URL being requested: GET https://www.googleapis.com/drive/v2internal/about?fields=rootFolderId%2CquotaBytesTotal%2CquotaBytesUsedAggregate%2CquotaBytesUsedInTrash%2CquotaType%2Cuser%2FemailAddress%2Cuser%2Fpicture%2C+domain&reason=304&alt=json
+2019-02-12 06:01:41,102 -0800 INFO pid=9348 21332:LaunchThreads   transport.py:157 Attempting refresh to obtain initial access_token
+2019-02-12 06:01:41,104 -0800 INFO pid=9348 21332:LaunchThreads   client.py:777 Refreshing access_token
+2019-02-12 06:01:41,141 -0800 INFO pid=9348 21332:LaunchThreads   proxy_manager.py:141 Exception while auto resolving proxy.
+Traceback (most recent call last):
+  File "common\proxy_manager.py", line 135, in _GetProxyInfoForUrl
+  File "windows\system_proxy_resolver.py", line 96, in GetProxyForUrlViaWPAD
+  File "windows\system_proxy_resolver.py", line 155, in _GetProxy
+ProxyInfoResolutionError: ProxyInfoResolutionError: inner_error=(12180, 'WinHttpGetProxyForUrl', 'The Proxy Auto-configuration URL was not found.')
+2019-02-12 06:01:41,142 -0800 INFO pid=9348 21332:LaunchThreads   service.py:132 Creating singleton service instance of '<class 'common.net.dapper.DapperService'>'
+2019-02-12 06:01:41,144 -0800 INFO pid=9348 21332:LaunchThreads   http.py:288 Request user-agent: googledrivesync-3.43.2448.9071 (64-bit) google-api-python-client/1.6.5 (gzip) (Windows/10.0 [64-bit])
+2019-02-12 06:01:41,145 -0800 INFO pid=9348 21332:LaunchThreads   sync_http_client.py:285 Opening direct connection to accounts.google.com:443.
+2019-02-12 06:01:41,410 -0800 INFO pid=9348 21332:LaunchThreads   http.py:308 Response: 404 bytes - application/json; charset=utf-8 (encoding:gzip)
+2019-02-12 06:01:41,420 -0800 INFO pid=9348 21332:LaunchThreads   proxy_manager.py:141 Exception while auto resolving proxy.
+Traceback (most recent call last):
+  File "common\proxy_manager.py", line 135, in _GetProxyInfoForUrl
+  File "windows\system_proxy_resolver.py", line 96, in GetProxyForUrlViaWPAD
+  File "windows\system_proxy_resolver.py", line 155, in _GetProxy
+ProxyInfoResolutionError: ProxyInfoResolutionError: inner_error=(12180, 'WinHttpGetProxyForUrl', 'The Proxy Auto-configuration URL was not found.')
+2019-02-12 06:01:41,421 -0800 INFO pid=9348 21332:LaunchThreads   http.py:288 Request user-agent: googledrivesync-3.43.2448.9071 (64-bit) google-api-python-client/1.6.5 (gzip) (Windows/10.0 [64-bit])
+2019-02-12 06:01:41,424 -0800 INFO pid=9348 21332:LaunchThreads   sync_http_client.py:285 Opening direct connection to www.googleapis.com:443.
+2019-02-12 06:01:41,900 -0800 INFO pid=9348 21332:LaunchThreads   http.py:308 Response: 363 bytes - application/json; charset=UTF-8 (encoding:gzip)
+2019-02-12 06:01:41,904 -0800 INFO pid=9348 21332:LaunchThreads   drive_request.py:318 Drive response:
+Request (None):
+About(tags=Reason.SYNC_OTHER(SyncType.UNKNOWN_SYNC_TYPE))
+Response:
+About(root_id=u'0ADOxB8YHOaFTUk9PVA', email_address=u'user@mail.org', quota_bytes_total=16106127360L, quota_bytes_used_aggregate=297841981L, quota_bytes_used_in_trash=3908767L, quota_type=<QuotaType.LIMITED: 1>, picture_url=u'https://lh6.googleusercontent.com/-Xx6fIkmXiUo/AAAAAAAAAAI/AAAAAAAAAAs/zSQHa8tVkog/s64/photo.jpg', apps_domain='')
+2019-02-12 06:01:41,917 -0800 INFO pid=9348 21332:LaunchThreads   proxy_manager.py:141 Exception while auto resolving proxy.
+Traceback (most recent call last):
+  File "common\proxy_manager.py", line 135, in _GetProxyInfoForUrl
+  File "windows\system_proxy_resolver.py", line 96, in GetProxyForUrlViaWPAD
+  File "windows\system_proxy_resolver.py", line 155, in _GetProxy
+ProxyInfoResolutionError: ProxyInfoResolutionError: inner_error=(12180, 'WinHttpGetProxyForUrl', 'The Proxy Auto-configuration URL was not found.')
+2019-02-12 06:01:41,918 -0800 INFO pid=9348 21332:LaunchThreads   sync_http_client.py:285 Opening direct connection to lh6.googleusercontent.com:443.
+2019-02-12 06:01:42,151 -0800 INFO pid=9348 21332:LaunchThreads   sync_http_client.py:285 Opening direct connection to lh6.googleusercontent.com:443.
+2019-02-12 06:01:42,378 -0800 INFO pid=9348 21332:LaunchThreads   service.py:132 Creating singleton service instance of '<class 'common.drive_api.doc_id_provider.Store'>'
+2019-02-12 06:01:42,380 -0800 INFO pid=9348 21332:LaunchThreads   user.py:82 Initializing User instance with new credentials. user@mail.org
+2019-02-12 06:01:42,381 -0800 INFO pid=9348 21332:LaunchThreads   sync_app.py:1287 Configuring sync app from feature switches.
+2019-02-12 06:01:42,381 -0800 INFO pid=9348 21332:LaunchThreads   features.py:124 Loads feature switches.
+2019-02-12 06:01:42,381 -0800 INFO pid=9348 21332:LaunchThreads   feature_switch_manager.py:808 Calling server to get feature switches.
+2019-02-12 06:01:42,381 -0800 INFO pid=9348 21332:LaunchThreads   drive_request.py:311 Drive request: ListFeatureSwitches(tags=Reason.SYNC_OTHER(SyncType.UNKNOWN_SYNC_TYPE)) - Read request - user@mail.org
+2019-02-12 06:01:42,388 -0800 INFO pid=9348 21332:LaunchThreads   discovery.py:870 URL being requested: GET https://www.googleapis.com/drive/v2internal/settings?fields=items%2Fkey%2Citems%2Fvalue&reason=304&namespace=FEATURE_SWITCH&namespace=UPLOADER&namespace=DRIVE_BE&alt=json
+2019-02-12 06:01:42,391 -0800 INFO pid=9348 21332:LaunchThreads   http.py:288 Request user-agent: googledrivesync-3.43.2448.9071 (64-bit) google-api-python-client/1.6.5 (gzip) (Windows/10.0 [64-bit])
+2019-02-12 06:01:42,658 -0800 INFO pid=9348 21332:LaunchThreads   http.py:308 Response: 6691 bytes - application/json; charset=UTF-8 (encoding:gzip)
+2019-02-12 06:01:42,670 -0800 INFO pid=9348 21332:LaunchThreads   drive_request.py:318 Drive response:

@@ -1,0 +1,44 @@
+Date		Time		Username			Title				Action	Details and External References
+02/12/2019	08:15 AM	bob@great_company.com		[none]				Login	Login/password accepted 1 attempt,status:strong,multi-factor:on,last changed:01/08/2019		https://great_company_mail_srvr.com
+02/12/2019	08:30 AM	bob@great_company.com		New info			Recd	From: el@great_company_partner.com	http://great_company_partner.com/projectInfo.html
+02/12/2019	08:35 AM	alice@great_company.com		[none]				Login	Login/password accepted 2 attempts,status:strong,multi-factor:on,last changed:2/05/2019		https://great_company_mail_srvr.com
+02/12/2019	08:38 AM	bob@great_company.com		Send updates, please		Sent	To: alice@great_company.com
+02/12/2019	08:40 AM	alice@great_company.com		Send updates, please		Recd	From: bob@great_company.com		
+02/12/2019	09:13 AM	alice@great_company.com		Dinner tonight			Sent	To: jj@mailserver.com		
+02/12/2019	09:15 AM	alice@great_company.com		Meeting time has changed	Sent	To: bob@great_company.com, camila@great_company.com, diego@great_company.com
+02/12/2019	09:15 AM	bob@great_company.com		Review new info			Sent	To: camila@great_company.com	http://great_company_partner.com/projectInfo.html
+02/12/2019	09:20 AM	bob@great_company.com		Meeting time has changed	Recd	From: alice@great_company.com	
+02/12/2019	09:20 AM	camila@great_company.com	Meeting time has changed	Recd	From: alice@great_company.com	
+02/12/2019	09:20 AM	diego@great_company.com		Meeting time has changed	Recd	From: alice@great_company.com	
+02/12/2019	09:25 AM	camila@great_company.com	Review new info			Recd	From: bob@great_company.com	http://great_company_partner.com/projectInfo.html
+02/12/2019	09:55 AM	camila@great_company.com	[none]				Login	Login/password accepted 1 attempt, status:weak,multi-factor:off,last changed:08/17/2018		https://great_company_mail_srvr.com
+02/12/2019	09:57 AM	alice@great_company.com		Travel Arrangements 		Recd	From: admin@travelerhelper.com	https://travelerhelper.com/scheduler.zip
+02/12/2019	10:04 AM	bob@great_company.com		Software Update Recommended	Recd	From: updates@fishtankmonitors.com	https://FishtankMonitors.com/update.zip
+02/12/2019	10:04 AM	camila@great_company.com	Software Update Recommended	Recd	From: updates@fishtankmonitors.com	https://FishtankMonitors.com/update.zip
+02/12/2019	10:12 AM	diego@great_company.com		Travel Arrangements		Recd	From: admin@travelerhelper.com	https://travelerhelper.com/scheduler.html
+02/12/2019	10:15 AM	bob@great_company.com		Fw: Software Update Recommended	Sent	To: camila@great_company.com	https://FishtankMonitors.com/update.zip
+02/12/2019	10:17 AM	diego@great_company.com		[none]				Login	Login/password accepted 1 attempt,status:strong,multi-factor:on,last changed:01/08/2019		https://great_company_mail_srvr.com
+02/12/2019	10:20 AM	camila@great_company.com	Fw: Software Update Recommended	Recd	From: bob@great_company.com	https://FishtankMonitors.com/update.zip
+02/12/2019	10:40 AM	diego@great_company.com		Send updates, please		Sent	To: bob@great_company.com	
+02/12/2019	10:45 AM	bob@great_company.com		Send updates, please		Recd	From: diego@great_company.com	
+02/12/2019	11:14 AM	bob@great_company.com		Payroll Info			Sent	To: camila@great_company.com	https://payroll.com/secure_financials.zip
+02/12/2019	11:18 AM	camila@great_company.com	Payroll Info			Recd	From: bob@great_company.com	https://payroll.com/secure_financials.html														
+02/12/2019	01:05 PM	bob@great_company.com		Payroll Update Correction	Sent	To: camila@great_company.com	https://payroll.com/secure_financials.zip
+02/12/2019	01:07 PM	camila@great_company.com	Software Update Recommended	Recd	From: updates@fishtankmontors.com	http://FishtankMontors.com/updates.zip
+02/12/2019	01:09 PM	camila@great_company.com	Payroll Update Correction	Recd	From: bob@great_company.com	https://payroll.com/secure_financials.zip
+02/12/2019	01:27 PM	diego@great_company.com		Meeting next week		Sent	To: bob@great_company.com	http://great_company_partner.com/projectInfo.html
+02/12/2019	01:32 PM	bob@great_company.com		Meeting next week		Recd	From: diego@great_company.com	http://great_company_partner.com/projectInfo.html
+02/12/2019	01:37 AM	diego@great_company.com		My travel changed!		Sent	To: taylor@mailserver.com	
+02/12/2019	01:49 PM	alice@great_company.com		Re: Dinner tonight		Recd	From: jj@mailserver.com	
+02/12/2019	02:05 PM	alice@great_company.com		Reservation request		Sent	To: reservations@great_food.com, jj@mailserver.com	https://restaurant_reservations.com
+02/12/2019	02:18 PM	diego@great_company.com		Re: purchase order 114		Recd	From: admin@bestofficesupplies.com	http://BestOfficeSupplies.com
+02/12/2019	02:19 PM	diego@great_company.com		Re: purchase order 129		Recd	From: admin@bestofficesupplies.com	http://BestOfficeSupplies.com
+02/12/2019	02:20 PM	diego@great_company.com		Re: purchase order 178		Recd	From: admin@bestofficesupplies.com	http://BestOfficeSupplies.com
+02/12/2019	02:31 PM	bob@great_company.com		Your order is on its way	Recd	From: campingsupplies.com	
+02/12/2019	02:45 PM	diego@great_company.com		Purchase order update		Sent	To: camila@great_company.com	http://BestOfficeSupplies.com
+02/12/2019	02:47 PM	diego@great_company.com		Reminder: bring clipboard	Sent	To: diego@great_company.com	
+02/12/2019	02:49 PM	camila@great_company.com	Purchase order update		Recd	From: diego@great_company.com	http://BestOfficeSupplies.com
+02/12/2019	03:48 PM	bob@great_company.com		Request approved		Recd	From: campingreservations.com		https://campingreservations.com
+02/12/2019	03:55 PM	alice@great_company.com		Update to our requirements	Sent	To: editor@great_company_partner.com	http://great_company.com/draft_reqs.html
+02/12/2019	05:20 PM	camila@great_company.com	Tomorrow's agenda		Sent	To: alice@great_company.com	
+02/12/2019	05:25 PM	alice@great_company.com		Tomorrow's agenda		Recd	From: camila@great_company.com	

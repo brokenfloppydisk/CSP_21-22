@@ -1,0 +1,916 @@
+!SESSION 2019-02-12 13:06:31.276 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.python.pydev.shared_core 4 4 2019-02-12 13:06:42.422
+!MESSAGE Error creating python process - exited before creating sockets - exitValue = (1).
+ProcessInfo:
+
+ - Executed: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe -u C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pycompletionserver.py 57142
+
+ - Environment:
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_STUDIO_JDK=C:\Program Files\Java\jdk1.7.0_80\bin
+APPDATA=C:\Users\user\AppData\Roaming
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=GPCREM0148
+COMSPEC=C:\windows\system32\cmd.exe
+DEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+FPPUILANG=en-US
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\user
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_80
+LOCALAPPDATA=C:\Users\user\AppData\Local
+LOGONSERVER=\\ADSIND0101
+NUMBER_OF_PROCESSORS=12
+ONLINESERVICES=Online Services
+OOBEUILANG=en-US
+OS=Windows_NT
+PATH=C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\user\AppData\Local\Android\sdk\platform-tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Eclipse;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PLATFORM=BWS
+PLATFORMCODE=5X
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3f02
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMFILES=C:\Program Files
+PROGRAMW6432=C:\Program Files
+PROMPT=$P$G
+PSMODULEPATH=C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+PYTHONPATH=C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pydev_sitecustomize;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64;C:\Users\user\AppData\Local\Enthought\Canopy\User;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\Pythonwin;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\windows
+TEMP=C:\Users\user\AppData\Local\Temp
+TMP=C:\Users\user\AppData\Local\Temp
+USERDNSDOMAIN=GOOD_COMPANY.LOCAL
+USERDOMAIN=GOOD_COMPANY
+USERNAME=user
+USERPROFILE=C:\Users\user
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VSEDEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+WINDIR=C:\windows
+WINDOWS_TRACING_FLAGS=3
+WINDOWS_TRACING_LOGFILE=C:\BVTBin\Tests\installpackage\csilogfile.log
+
+ - Working Dir:
+C:\Users\user\eclipse\java-neon\eclipse\..\..\..\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc
+
+ - OS:
+Windows 7
+
+ - Std output:
+
+
+ - Err output:
+ImportError: No module named site
+
+!STACK 0
+java.lang.RuntimeException: Error creating python process - exited before creating sockets - exitValue = (1).
+ProcessInfo:
+
+ - Executed: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe -u C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pycompletionserver.py 57142
+
+ - Environment:
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_STUDIO_JDK=C:\Program Files\Java\jdk1.7.0_80\bin
+APPDATA=C:\Users\user\AppData\Roaming
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=GPCREM0148
+COMSPEC=C:\windows\system32\cmd.exe
+DEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+FPPUILANG=en-US
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\user
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_80
+LOCALAPPDATA=C:\Users\user\AppData\Local
+LOGONSERVER=\\ADSIND0101
+NUMBER_OF_PROCESSORS=12
+ONLINESERVICES=Online Services
+OOBEUILANG=en-US
+OS=Windows_NT
+PATH=C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\user\AppData\Local\Android\sdk\platform-tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Eclipse;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PLATFORM=BWS
+PLATFORMCODE=5X
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3f02
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMFILES=C:\Program Files
+PROGRAMW6432=C:\Program Files
+PROMPT=$P$G
+PSMODULEPATH=C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+PYTHONPATH=C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pydev_sitecustomize;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64;C:\Users\user\AppData\Local\Enthought\Canopy\User;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\Pythonwin;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\windows
+TEMP=C:\Users\user\AppData\Local\Temp
+TMP=C:\Users\user\AppData\Local\Temp
+USERDNSDOMAIN=GOOD_COMPANY.LOCAL
+USERDOMAIN=GOOD_COMPANY
+USERNAME=user
+USERPROFILE=C:\Users\user
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VSEDEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+WINDIR=C:\windows
+WINDOWS_TRACING_FLAGS=3
+WINDOWS_TRACING_LOGFILE=C:\BVTBin\Tests\installpackage\csilogfile.log
+
+ - Working Dir:
+C:\Users\user\eclipse\java-neon\eclipse\..\..\..\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc
+
+ - OS:
+Windows 7
+
+ - Std output:
+
+
+ - Err output:
+ImportError: No module named site
+
+	at org.python.pydev.core.log.Log.log(Log.java:54)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.startIt(AbstractShell.java:290)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:232)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:165)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.getServerShell(AbstractShell.java:222)
+	at org.python.pydev.editor.PyEdit$1.run(PyEdit.java:525)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.006
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.016
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.016
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.017
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.018
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.043
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.043
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.045
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.048
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 1 1 2019-02-12 13:06:44.048
+!MESSAGE Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+!STACK 0
+java.lang.RuntimeException: Unable to track file that does not exist: C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+	at org.python.pydev.shared_core.log.Log.logInfo(Log.java:52)
+	at org.python.pydev.shared_core.path_watch.PathWatch.track(PathWatch.java:316)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:463)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.afterSetInfos(SyncSystemModulesManagerScheduler.java:444)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.registerInterpreterManager(SyncSystemModulesManagerScheduler.java:67)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler.start(SyncSystemModulesManagerScheduler.java:89)
+	at org.python.pydev.plugin.PydevPlugin$1.run(PydevPlugin.java:222)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 4 4 2019-02-12 13:06:44.130
+!MESSAGE The module threading could not be found nor created!
+!STACK 0
+java.lang.RuntimeException: The module threading could not be found nor created!
+	at org.python.pydev.core.log.Log.log(Log.java:54)
+	at org.python.pydev.editor.codecompletion.revisited.ModulesManager.getModule(ModulesManager.java:973)
+	at org.python.pydev.editor.codecompletion.revisited.ModulesManager.getModule(ModulesManager.java:787)
+	at org.python.pydev.editor.codecompletion.revisited.SystemModulesManager.getModuleWithoutBuiltins(SystemModulesManager.java:370)
+	at org.python.pydev.editor.codecompletion.revisited.ProjectModulesManager.getModuleAndRelatedModulesManager(ProjectModulesManager.java:219)
+	at org.python.pydev.editor.codecompletion.revisited.ProjectModulesManager.getModule(ProjectModulesManager.java:180)
+	at org.python.pydev.editor.codecompletion.revisited.ProjectModulesManager.getModule(ProjectModulesManager.java:164)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getModule(AbstractASTManager.java:476)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.findModuleFromPath(AbstractASTManager.java:2150)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.findOnImportedMods(AbstractASTManager.java:2041)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.findOnImportedMods(AbstractASTManager.java:1919)
+	at com.python.pydev.analysis.visitors.ImportChecker.visitImportToken(ImportChecker.java:186)
+	at com.python.pydev.analysis.visitors.ImportChecker.visitImportToken(ImportChecker.java:167)
+	at com.python.pydev.analysis.visitors.Scope.addImportTokens(Scope.java:173)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitImport(AbstractScopeAnalyzerVisitor.java:556)
+	at org.python.pydev.parser.jython.ast.Import.accept(Import.java:85)
+	at org.python.pydev.parser.jython.ast.Module.traverse(Module.java:93)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.traverse(AbstractScopeAnalyzerVisitor.java:193)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.traverse(OccurrencesVisitor.java:263)
+	at org.python.pydev.parser.jython.ast.VisitorBase.visitModule(VisitorBase.java:11)
+	at org.python.pydev.parser.jython.ast.Module.accept(Module.java:85)
+	at com.python.pydev.analysis.OccurrencesAnalyzer.analyzeDocument(OccurrencesAnalyzer.java:56)
+	at com.python.pydev.analysis.builder.AnalysisBuilderRunnable.doAnalysis(AnalysisBuilderRunnable.java:251)
+	at com.python.pydev.analysis.builder.AbstractAnalysisBuilderRunnable.run(AbstractAnalysisBuilderRunnable.java:162)
+	at org.python.pydev.core.concurrency.RunnableAsJobsPoolThread$1.run(RunnableAsJobsPoolThread.java:140)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-12 13:06:44.250
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.python.pydev.shared_core 4 4 2019-02-12 13:06:44.405
+!MESSAGE Error creating python process - exited before creating sockets - exitValue = (1).
+ProcessInfo:
+
+ - Executed: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe -u C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pycompletionserver.py 57143
+
+ - Environment:
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_STUDIO_JDK=C:\Program Files\Java\jdk1.7.0_80\bin
+APPDATA=C:\Users\user\AppData\Roaming
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=GPCREM0148
+COMSPEC=C:\windows\system32\cmd.exe
+DEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+FPPUILANG=en-US
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\user
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_80
+LOCALAPPDATA=C:\Users\user\AppData\Local
+LOGONSERVER=\\ADSIND0101
+NUMBER_OF_PROCESSORS=12
+ONLINESERVICES=Online Services
+OOBEUILANG=en-US
+OS=Windows_NT
+PATH=C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\user\AppData\Local\Android\sdk\platform-tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Eclipse;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PLATFORM=BWS
+PLATFORMCODE=5X
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3f02
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMFILES=C:\Program Files
+PROGRAMW6432=C:\Program Files
+PROMPT=$P$G
+PSMODULEPATH=C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+PYTHONPATH=C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pydev_sitecustomize;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64;C:\Users\user\AppData\Local\Enthought\Canopy\User;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\Pythonwin;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\windows
+TEMP=C:\Users\user\AppData\Local\Temp
+TMP=C:\Users\user\AppData\Local\Temp
+USERDNSDOMAIN=GOOD_COMPANY.LOCAL
+USERDOMAIN=GOOD_COMPANY
+USERNAME=user
+USERPROFILE=C:\Users\user
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VSEDEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+WINDIR=C:\windows
+WINDOWS_TRACING_FLAGS=3
+WINDOWS_TRACING_LOGFILE=C:\BVTBin\Tests\installpackage\csilogfile.log
+
+ - Working Dir:
+C:\Users\user\eclipse\java-neon\eclipse\..\..\..\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc
+
+ - OS:
+Windows 7
+
+ - Std output:
+
+
+ - Err output:
+ImportError: No module named site
+
+!STACK 0
+java.lang.RuntimeException: Error creating python process - exited before creating sockets - exitValue = (1).
+ProcessInfo:
+
+ - Executed: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe -u C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pycompletionserver.py 57143
+
+ - Environment:
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_STUDIO_JDK=C:\Program Files\Java\jdk1.7.0_80\bin
+APPDATA=C:\Users\user\AppData\Roaming
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=GPCREM0148
+COMSPEC=C:\windows\system32\cmd.exe
+DEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+FPPUILANG=en-US
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\user
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_80
+LOCALAPPDATA=C:\Users\user\AppData\Local
+LOGONSERVER=\\ADSIND0101
+NUMBER_OF_PROCESSORS=12
+ONLINESERVICES=Online Services
+OOBEUILANG=en-US
+OS=Windows_NT
+PATH=C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\user\AppData\Local\Android\sdk\platform-tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Eclipse;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PLATFORM=BWS
+PLATFORMCODE=5X
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3f02
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMFILES=C:\Program Files
+PROGRAMW6432=C:\Program Files
+PROMPT=$P$G
+PSMODULEPATH=C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+PYTHONPATH=C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pydev_sitecustomize;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64;C:\Users\user\AppData\Local\Enthought\Canopy\User;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\Pythonwin;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\windows
+TEMP=C:\Users\user\AppData\Local\Temp
+TMP=C:\Users\user\AppData\Local\Temp
+USERDNSDOMAIN=GOOD_COMPANY.LOCAL
+USERDOMAIN=GOOD_COMPANY
+USERNAME=user
+USERPROFILE=C:\Users\user
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VSEDEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+WINDIR=C:\windows
+WINDOWS_TRACING_FLAGS=3
+WINDOWS_TRACING_LOGFILE=C:\BVTBin\Tests\installpackage\csilogfile.log
+
+ - Working Dir:
+C:\Users\user\eclipse\java-neon\eclipse\..\..\..\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc
+
+ - OS:
+Windows 7
+
+ - Std output:
+
+
+ - Err output:
+ImportError: No module named site
+
+	at org.python.pydev.core.log.Log.log(Log.java:54)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.startIt(AbstractShell.java:290)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:232)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:165)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.getServerShell(AbstractShell.java:222)
+	at org.python.pydev.editor.codecompletion.revisited.modules.CompiledModule.createInnerFromServer(CompiledModule.java:331)
+	at org.python.pydev.editor.codecompletion.revisited.modules.CompiledModule.getGlobalTokens(CompiledModule.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:747)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:572)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:541)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:522)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:755)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:572)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:541)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:522)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.findTokensOnImportedMods(AbstractASTManager.java:1842)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:711)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:572)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:541)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.modules.AbstractModule.internalGenerateCachedTokens(AbstractModule.java:216)
+	at org.python.pydev.editor.codecompletion.revisited.modules.AbstractModule.getCachedCompletions(AbstractModule.java:188)
+	at org.python.pydev.editor.codecompletion.revisited.modules.AbstractModule.isInGlobalTokens(AbstractModule.java:140)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.markRead(AbstractScopeAnalyzerVisitor.java:1200)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitAttribute(AbstractScopeAnalyzerVisitor.java:716)
+	at org.python.pydev.parser.jython.ast.Attribute.accept(Attribute.java:99)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.onVisitCallFunc(AbstractScopeAnalyzerVisitor.java:227)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.onVisitCallFunc(OccurrencesVisitor.java:417)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitCall(AbstractScopeAnalyzerVisitor.java:199)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.visitCall(OccurrencesVisitor.java:226)
+	at org.python.pydev.parser.jython.ast.Call.accept(Call.java:137)
+	at org.python.pydev.parser.jython.ast.Expr.traverse(Expr.java:85)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.traverse(AbstractScopeAnalyzerVisitor.java:193)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.traverse(OccurrencesVisitor.java:263)
+	at org.python.pydev.parser.jython.ast.VisitorBase.visitExpr(VisitorBase.java:193)
+	at org.python.pydev.parser.jython.ast.Expr.accept(Expr.java:79)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitFunctionDef(AbstractScopeAnalyzerVisitor.java:427)
+	at org.python.pydev.parser.jython.ast.FunctionDef.accept(FunctionDef.java:137)
+	at org.python.pydev.parser.jython.ast.Module.traverse(Module.java:93)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.traverse(AbstractScopeAnalyzerVisitor.java:193)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.traverse(OccurrencesVisitor.java:263)
+	at org.python.pydev.parser.jython.ast.VisitorBase.visitModule(VisitorBase.java:11)
+	at org.python.pydev.parser.jython.ast.Module.accept(Module.java:85)
+	at com.python.pydev.analysis.OccurrencesAnalyzer.analyzeDocument(OccurrencesAnalyzer.java:56)
+	at com.python.pydev.analysis.builder.AnalysisBuilderRunnable.doAnalysis(AnalysisBuilderRunnable.java:251)
+	at com.python.pydev.analysis.builder.AbstractAnalysisBuilderRunnable.run(AbstractAnalysisBuilderRunnable.java:162)
+	at org.python.pydev.core.concurrency.RunnableAsJobsPoolThread$1.run(RunnableAsJobsPoolThread.java:140)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 4 4 2019-02-12 13:06:44.407
+!MESSAGE Error while getting info for module:__builtin__. Project: P/Karel2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Error creating python process - exited before creating sockets - exitValue = (1).
+ProcessInfo:
+
+ - Executed: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe -u C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pycompletionserver.py 57143
+
+ - Environment:
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_STUDIO_JDK=C:\Program Files\Java\jdk1.7.0_80\bin
+APPDATA=C:\Users\user\AppData\Roaming
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=GPCREM0148
+COMSPEC=C:\windows\system32\cmd.exe
+DEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+FPPUILANG=en-US
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\user
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_80
+LOCALAPPDATA=C:\Users\user\AppData\Local
+LOGONSERVER=\\ADSIND0101
+NUMBER_OF_PROCESSORS=12
+ONLINESERVICES=Online Services
+OOBEUILANG=en-US
+OS=Windows_NT
+PATH=C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\user\AppData\Local\Android\sdk\platform-tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Eclipse;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PLATFORM=BWS
+PLATFORMCODE=5X
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3f02
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMFILES=C:\Program Files
+PROGRAMW6432=C:\Program Files
+PROMPT=$P$G
+PSMODULEPATH=C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+PYTHONPATH=C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pydev_sitecustomize;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64;C:\Users\user\AppData\Local\Enthought\Canopy\User;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\Pythonwin;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\windows
+TEMP=C:\Users\user\AppData\Local\Temp
+TMP=C:\Users\user\AppData\Local\Temp
+USERDNSDOMAIN=GOOD_COMPANY.LOCAL
+USERDOMAIN=GOOD_COMPANY
+USERNAME=user
+USERPROFILE=C:\Users\user
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VSEDEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+WINDIR=C:\windows
+WINDOWS_TRACING_FLAGS=3
+WINDOWS_TRACING_LOGFILE=C:\BVTBin\Tests\installpackage\csilogfile.log
+
+ - Working Dir:
+C:\Users\user\eclipse\java-neon\eclipse\..\..\..\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc
+
+ - OS:
+Windows 7
+
+ - Std output:
+
+
+ - Err output:
+ImportError: No module named site
+
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.startIt(AbstractShell.java:291)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:232)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:165)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.getServerShell(AbstractShell.java:222)
+	at org.python.pydev.editor.codecompletion.revisited.modules.CompiledModule.createInnerFromServer(CompiledModule.java:331)
+	at org.python.pydev.editor.codecompletion.revisited.modules.CompiledModule.getGlobalTokens(CompiledModule.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:747)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:572)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:541)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:522)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:755)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:572)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:541)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:522)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.findTokensOnImportedMods(AbstractASTManager.java:1842)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:711)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:572)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:541)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.modules.AbstractModule.internalGenerateCachedTokens(AbstractModule.java:216)
+	at org.python.pydev.editor.codecompletion.revisited.modules.AbstractModule.getCachedCompletions(AbstractModule.java:188)
+	at org.python.pydev.editor.codecompletion.revisited.modules.AbstractModule.isInGlobalTokens(AbstractModule.java:140)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.markRead(AbstractScopeAnalyzerVisitor.java:1200)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitAttribute(AbstractScopeAnalyzerVisitor.java:716)
+	at org.python.pydev.parser.jython.ast.Attribute.accept(Attribute.java:99)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.onVisitCallFunc(AbstractScopeAnalyzerVisitor.java:227)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.onVisitCallFunc(OccurrencesVisitor.java:417)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitCall(AbstractScopeAnalyzerVisitor.java:199)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.visitCall(OccurrencesVisitor.java:226)
+	at org.python.pydev.parser.jython.ast.Call.accept(Call.java:137)
+	at org.python.pydev.parser.jython.ast.Expr.traverse(Expr.java:85)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.traverse(AbstractScopeAnalyzerVisitor.java:193)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.traverse(OccurrencesVisitor.java:263)
+	at org.python.pydev.parser.jython.ast.VisitorBase.visitExpr(VisitorBase.java:193)
+	at org.python.pydev.parser.jython.ast.Expr.accept(Expr.java:79)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitFunctionDef(AbstractScopeAnalyzerVisitor.java:427)
+	at org.python.pydev.parser.jython.ast.FunctionDef.accept(FunctionDef.java:137)
+	at org.python.pydev.parser.jython.ast.Module.traverse(Module.java:93)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.traverse(AbstractScopeAnalyzerVisitor.java:193)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.traverse(OccurrencesVisitor.java:263)
+	at org.python.pydev.parser.jython.ast.VisitorBase.visitModule(VisitorBase.java:11)
+	at org.python.pydev.parser.jython.ast.Module.accept(Module.java:85)
+	at com.python.pydev.analysis.OccurrencesAnalyzer.analyzeDocument(OccurrencesAnalyzer.java:56)
+	at com.python.pydev.analysis.builder.AnalysisBuilderRunnable.doAnalysis(AnalysisBuilderRunnable.java:251)
+	at com.python.pydev.analysis.builder.AbstractAnalysisBuilderRunnable.run(AbstractAnalysisBuilderRunnable.java:162)
+	at org.python.pydev.core.concurrency.RunnableAsJobsPoolThread$1.run(RunnableAsJobsPoolThread.java:140)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.lang.Exception: Error creating python process - exited before creating sockets - exitValue = (1).
+ProcessInfo:
+
+ - Executed: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe -u C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pycompletionserver.py 57143
+
+ - Environment:
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_STUDIO_JDK=C:\Program Files\Java\jdk1.7.0_80\bin
+APPDATA=C:\Users\user\AppData\Roaming
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=GPCREM0148
+COMSPEC=C:\windows\system32\cmd.exe
+DEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+FPPUILANG=en-US
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\user
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_80
+LOCALAPPDATA=C:\Users\user\AppData\Local
+LOGONSERVER=\\ADSIND0101
+NUMBER_OF_PROCESSORS=12
+ONLINESERVICES=Online Services
+OOBEUILANG=en-US
+OS=Windows_NT
+PATH=C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\user\AppData\Local\Android\sdk\platform-tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Eclipse;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PLATFORM=BWS
+PLATFORMCODE=5X
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3f02
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMFILES=C:\Program Files
+PROGRAMW6432=C:\Program Files
+PROMPT=$P$G
+PSMODULEPATH=C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+PYTHONPATH=C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pydev_sitecustomize;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64;C:\Users\user\AppData\Local\Enthought\Canopy\User;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\Pythonwin;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\windows
+TEMP=C:\Users\user\AppData\Local\Temp
+TMP=C:\Users\user\AppData\Local\Temp
+USERDNSDOMAIN=GOOD_COMPANY.LOCAL
+USERDOMAIN=GOOD_COMPANY
+USERNAME=user
+USERPROFILE=C:\Users\user
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VSEDEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+WINDIR=C:\windows
+WINDOWS_TRACING_FLAGS=3
+WINDOWS_TRACING_LOGFILE=C:\BVTBin\Tests\installpackage\csilogfile.log
+
+ - Working Dir:
+C:\Users\user\eclipse\java-neon\eclipse\..\..\..\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc
+
+ - OS:
+Windows 7
+
+ - Std output:
+
+
+ - Err output:
+ImportError: No module named site
+
+	... 49 more
+!SUBENTRY 1 org.python.pydev 4 4 2019-02-12 13:06:44.408
+!MESSAGE Error creating python process - exited before creating sockets - exitValue = (1).
+ProcessInfo:
+
+ - Executed: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe -u C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pycompletionserver.py 57143
+
+ - Environment:
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_STUDIO_JDK=C:\Program Files\Java\jdk1.7.0_80\bin
+APPDATA=C:\Users\user\AppData\Roaming
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=GPCREM0148
+COMSPEC=C:\windows\system32\cmd.exe
+DEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+FPPUILANG=en-US
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\user
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_80
+LOCALAPPDATA=C:\Users\user\AppData\Local
+LOGONSERVER=\\ADSIND0101
+NUMBER_OF_PROCESSORS=12
+ONLINESERVICES=Online Services
+OOBEUILANG=en-US
+OS=Windows_NT
+PATH=C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\user\AppData\Local\Android\sdk\platform-tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Eclipse;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PLATFORM=BWS
+PLATFORMCODE=5X
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3f02
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMFILES=C:\Program Files
+PROGRAMW6432=C:\Program Files
+PROMPT=$P$G
+PSMODULEPATH=C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+PYTHONPATH=C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pydev_sitecustomize;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64;C:\Users\user\AppData\Local\Enthought\Canopy\User;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\Pythonwin;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\windows
+TEMP=C:\Users\user\AppData\Local\Temp
+TMP=C:\Users\user\AppData\Local\Temp
+USERDNSDOMAIN=GOOD_COMPANY.LOCAL
+USERDOMAIN=GOOD_COMPANY
+USERNAME=user
+USERPROFILE=C:\Users\user
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VSEDEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+WINDIR=C:\windows
+WINDOWS_TRACING_FLAGS=3
+WINDOWS_TRACING_LOGFILE=C:\BVTBin\Tests\installpackage\csilogfile.log
+
+ - Working Dir:
+C:\Users\user\eclipse\java-neon\eclipse\..\..\..\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc
+
+ - OS:
+Windows 7
+
+ - Std output:
+
+
+ - Err output:
+ImportError: No module named site
+
+!STACK 0
+java.lang.Exception: Error creating python process - exited before creating sockets - exitValue = (1).
+ProcessInfo:
+
+ - Executed: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe -u C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pycompletionserver.py 57143
+
+ - Environment:
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_STUDIO_JDK=C:\Program Files\Java\jdk1.7.0_80\bin
+APPDATA=C:\Users\user\AppData\Roaming
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=GPCREM0148
+COMSPEC=C:\windows\system32\cmd.exe
+DEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+FPPUILANG=en-US
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\user
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_80
+LOCALAPPDATA=C:\Users\user\AppData\Local
+LOGONSERVER=\\ADSIND0101
+NUMBER_OF_PROCESSORS=12
+ONLINESERVICES=Online Services
+OOBEUILANG=en-US
+OS=Windows_NT
+PATH=C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\user\AppData\Local\Android\sdk\platform-tools;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Eclipse;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PLATFORM=BWS
+PLATFORMCODE=5X
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 63 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3f02
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMFILES=C:\Program Files
+PROGRAMW6432=C:\Program Files
+PROMPT=$P$G
+PSMODULEPATH=C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+PYTHONPATH=C:\Users\user\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc\pydev_sitecustomize;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\texttable-0.8.4-py2.7.egg;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\DLLs;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\lib-tk;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64;C:\Users\user\AppData\Local\Enthought\Canopy\User;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\User\lib\site-packages\Pythonwin;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\win32\lib;C:\Users\user\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.5.5.3123.win-x86_64\lib\site-packages\Pythonwin
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\windows
+TEMP=C:\Users\user\AppData\Local\Temp
+TMP=C:\Users\user\AppData\Local\Temp
+USERDNSDOMAIN=GOOD_COMPANY.LOCAL
+USERDOMAIN=GOOD_COMPANY
+USERNAME=user
+USERPROFILE=C:\Users\user
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VSEDEFLOGDIR=C:\ProgramData\McAfee\DesktopProtection
+WINDIR=C:\windows
+WINDOWS_TRACING_FLAGS=3
+WINDOWS_TRACING_LOGFILE=C:\BVTBin\Tests\installpackage\csilogfile.log
+
+ - Working Dir:
+C:\Users\user\eclipse\java-neon\eclipse\..\..\..\.p2\pool\plugins\org.python.pydev_5.1.2.201606231256\pysrc
+
+ - OS:
+Windows 7
+
+ - Std output:
+
+
+ - Err output:
+ImportError: No module named site
+
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.startIt(AbstractShell.java:291)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:232)
+	at org.python.pydev.editor.codecompletion.shell.ShellsContainer.getServerShell(ShellsContainer.java:165)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.getServerShell(AbstractShell.java:222)
+	at org.python.pydev.editor.codecompletion.revisited.modules.CompiledModule.createInnerFromServer(CompiledModule.java:331)
+	at org.python.pydev.editor.codecompletion.revisited.modules.CompiledModule.getGlobalTokens(CompiledModule.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:747)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:572)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:541)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:522)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:755)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:572)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:541)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:522)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.findTokensOnImportedMods(AbstractASTManager.java:1842)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:711)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:572)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:541)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:532)
+	at org.python.pydev.editor.codecompletion.revisited.modules.AbstractModule.internalGenerateCachedTokens(AbstractModule.java:216)
+	at org.python.pydev.editor.codecompletion.revisited.modules.AbstractModule.getCachedCompletions(AbstractModule.java:188)
+	at org.python.pydev.editor.codecompletion.revisited.modules.AbstractModule.isInGlobalTokens(AbstractModule.java:140)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.markRead(AbstractScopeAnalyzerVisitor.java:1200)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitAttribute(AbstractScopeAnalyzerVisitor.java:716)
+	at org.python.pydev.parser.jython.ast.Attribute.accept(Attribute.java:99)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.onVisitCallFunc(AbstractScopeAnalyzerVisitor.java:227)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.onVisitCallFunc(OccurrencesVisitor.java:417)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitCall(AbstractScopeAnalyzerVisitor.java:199)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.visitCall(OccurrencesVisitor.java:226)
+	at org.python.pydev.parser.jython.ast.Call.accept(Call.java:137)
+	at org.python.pydev.parser.jython.ast.Expr.traverse(Expr.java:85)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.traverse(AbstractScopeAnalyzerVisitor.java:193)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.traverse(OccurrencesVisitor.java:263)
+	at org.python.pydev.parser.jython.ast.VisitorBase.visitExpr(VisitorBase.java:193)
+	at org.python.pydev.parser.jython.ast.Expr.accept(Expr.java:79)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.visitFunctionDef(AbstractScopeAnalyzerVisitor.java:427)
+	at org.python.pydev.parser.jython.ast.FunctionDef.accept(FunctionDef.java:137)
+	at org.python.pydev.parser.jython.ast.Module.traverse(Module.java:93)
+	at com.python.pydev.analysis.scopeanalysis.AbstractScopeAnalyzerVisitor.traverse(AbstractScopeAnalyzerVisitor.java:193)
+	at com.python.pydev.analysis.visitors.OccurrencesVisitor.traverse(OccurrencesVisitor.java:263)
+	at org.python.pydev.parser.jython.ast.VisitorBase.visitModule(VisitorBase.java:11)
+	at org.python.pydev.parser.jython.ast.Module.accept(Module.java:85)
+	at com.python.pydev.analysis.OccurrencesAnalyzer.analyzeDocument(OccurrencesAnalyzer.java:56)
+	at com.python.pydev.analysis.builder.AnalysisBuilderRunnable.doAnalysis(AnalysisBuilderRunnable.java:251)
+	at com.python.pydev.analysis.builder.AbstractAnalysisBuilderRunnable.run(AbstractAnalysisBuilderRunnable.java:162)
+	at org.python.pydev.core.concurrency.RunnableAsJobsPoolThread$1.run(RunnableAsJobsPoolThread.java:140)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.python.pydev.shared_core 4 4 2019-02-12 13:07:14.275
+!MESSAGE No output was in the standard output when
+trying to create the interpreter info for: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe
+The error output contains:>>ImportError: No module named site
+<<
+!STACK 0
+java.lang.RuntimeException: No output was in the standard output when
+trying to create the interpreter info for: C:\Users\user\AppData\Local\Enthought\Canopy\User\python.exe
+The error output contains:>>ImportError: No module named site
+<<
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.createInfoFromOutput(AbstractInterpreterManager.java:440)
+	at org.python.pydev.ui.interpreters.PythonInterpreterManager.doCreateInterpreterInfo(PythonInterpreterManager.java:71)
+	at org.python.pydev.ui.interpreters.PythonInterpreterManager.internalCreateInterpreterInfo(PythonInterpreterManager.java:44)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.createInterpreterInfo(AbstractInterpreterManager.java:390)
+	at org.python.pydev.editor.codecompletion.revisited.SynchSystemModulesManager$CreateInterpreterInfoCallback.createInterpreterInfo(SynchSystemModulesManager.java:173)
+	at org.python.pydev.editor.codecompletion.revisited.SynchSystemModulesManager.updateStructures(SynchSystemModulesManager.java:252)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler$SynchJob.run(SyncSystemModulesManagerScheduler.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-02-12 13:07:35.769
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler$SynchJob
