@@ -4,12 +4,18 @@
 
 import matplotlib.pyplot as plt
 import pandas as pd
+import os
 
 # choose countries of interest
 my_countries = ['United States', 'Zimbabwe','Cuba', 'Caribbean small states', "Cameroon", "Burundi"]
 
+current_filepath = os.path.join(
+  os.path.abspath(os.path.dirname(__file__)),
+  'elec_access_data.csv'
+)
+
 # Load in the data with read_csv()
-df = pd.read_csv("elec_access_data.csv", header=0)    # header=0 means there is a header in row 0
+df = pd.read_csv(current_filepath, header=0)    # header=0 means there is a header in row 0
 
 # get a list unique countries
 unique_countries = df['Entity'].unique()
