@@ -2,10 +2,8 @@ import matplotlib.pyplot as plt
 import pandas
 
 # Create dataframe from csv file
-honey_df = pandas.read_csv("honey.csv")
+honey_df = pandas.read_csv("operations.csv")
 
-# Remove commas
-honey_df["Value"] = honey_df["Value"].str.replace(",", "")
 # Convert strings in Value column to numbers
 honey_df["Value"] = pandas.to_numeric(honey_df["Value"], errors="coerce")
 # Drop NaN values
@@ -20,7 +18,7 @@ def graph_by_state():
     fig, axs = plt.subplots(3, sharex=True)
     fig.suptitle("Honey production by production bracket")
 
-    brackets = [0, 1000000, 4500000]
+    brackets = [0, 570, 880]
 
     all_honey = {}
     
