@@ -16,8 +16,8 @@ Thank for to [Mr. Virak](https://github.com/jonvirak)) for teaching the class an
 
 - Turtle Projects:
   - A set of beginning Python projects using the turtle libary.
-  - Turtle Escape - A turtle algorithmically escapes a recursively generated maze.
-  - Turtle Tower Defence - An object-oriented tower defence game made with Brianna in Turtle, which makes usage of asynchronous code.
+  - [Turtle Escape](https://replit.com/@badewinmbi/Turtle-Escape) - A turtle algorithmically escapes a recursively generated maze.
+  - [Turtle Tower Defence](https://replit.com/@badewinmbi/Turtle-Game) - An object-oriented tower defence game made with Brianna in Turtle, which makes usage of asynchronous code.
   - Random Pattern Generator - draws a random set of circular patterns onto the canvas.
   - Sierpinski Triangle - Iteratively draws a Sierpinski Triangle.
 - GUI Projects:
