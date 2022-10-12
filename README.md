@@ -10,7 +10,7 @@ who I worked together with for several projects.
 
 Additionally, I also have created a [google drive folder](https://drive.google.com/drive/folders/11gSV_4jPkE6C1P7DlsKN9F40VETz6nTT?usp=sharing) with a more complete set of files from every project.
 
-Thank for to [Mr. Virak](https://github.com/jonvirak)) for teaching the class and giving me advice, and to [Brianna](https://github.com/adewinmbi) for working with me on so many of the projects!
+Thanks to [Mr. Virak](https://github.com/jonvirak)) for teaching the class and giving me advice, and to [Brianna](https://github.com/adewinmbi) for working with me on so many of the projects!
 
 ## Content
 
